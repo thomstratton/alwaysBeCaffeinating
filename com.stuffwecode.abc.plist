@@ -11,7 +11,7 @@
     <key>ProgramArguments</key>
       <array>
           <string>/usr/bin/caffeinate</string>
-          <string>-s</string>
+          <string>-dimsu</string>
       </array>
 </dict>
 </plist>
