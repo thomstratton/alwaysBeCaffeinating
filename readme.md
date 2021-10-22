@@ -27,6 +27,6 @@ ps -ef | grep caffeinate
 ## manual start / stop
 
 ```console
-sudo launchctl load /System/Library/LaunchDaemons/ssh.plist 
-sudo launchctl unload  /System/Library/LaunchDaemons/ssh.plist
+sudo launchctl load /Library/LaunchDaemons/com.stuffwecode.abc.plist 
+sudo launchctl unload /Library/LaunchDaemons/com.stuffwecode.abc.plist
 ```
