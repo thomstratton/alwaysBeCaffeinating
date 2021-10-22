@@ -1,6 +1,6 @@
 # Always Be Caffeinating - prevent mac from going to sleep.
 
-This will set up a launchd controlled daemon to start up on boot which prevents the MacOS computer from going to sleepby utilizing the builtin caffeinate command.  (May be needed for server workloads)
+This will set up a launchd controlled daemon to start up on boot which prevents the MacOS computer from going to sleep by utilizing the builtin caffeinate command.  (May be needed for some situations).  Make sure this is really needed before you use it... don't waste energy for no reason!
 
 ## installation
 
